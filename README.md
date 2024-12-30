@@ -142,4 +142,4 @@ BEGIN
     -- Add other conditions as needed for further logic
 END;
 ```
-Login dengan Email dengan Password `password` sebagai default;
+Login dengan menginputkan Email, dan Password `password` sebagai default;
